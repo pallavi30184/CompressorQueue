@@ -1,7 +1,7 @@
 aiohttp
 https://github.com/LonamiWebs/Telethon/archive/refs/heads/v1.zip
 html_telegraph_poster
-lxml[html_clean]
+lxml_html_clean
 python-decouple
 psutil
 pymediainfo
